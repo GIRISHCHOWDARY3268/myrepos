@@ -1,0 +1,2 @@
+This is the text content in the file to be upload in the form of the git projectThis is the second line of the content to be upload in the form of the git project 
+This is the third line of the file the content to be upload in the form of the git project.
